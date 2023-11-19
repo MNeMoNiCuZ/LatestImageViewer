@@ -16,3 +16,6 @@ ALT + ENTER to go full-screen (it always fullscreens on your primary monitor unf
 DELETE to delete the image. It should go to your trash, but use at your own risk.
 
 There's a right-click menu for some of these inputs.
+
+# Example
+![image](https://github.com/MNeMoNiCuZ/LatestImageViewer/assets/60541708/652d60eb-5663-41ef-a665-386b88c2e7e7)
