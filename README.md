@@ -19,3 +19,4 @@ There's a right-click menu for some of these inputs.
 
 # Example
 ![image](https://github.com/MNeMoNiCuZ/LatestImageViewer/assets/60541708/652d60eb-5663-41ef-a665-386b88c2e7e7)
+![LatestImagePreview](https://github.com/MNeMoNiCuZ/LatestImageViewer/assets/60541708/1208457c-4812-4723-bf0a-43bdcf0353dc)
