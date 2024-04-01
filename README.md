@@ -1,21 +1,30 @@
 # LatestImageViewer
-A simple image viewer that automatically shows the latest image in a folder.
-This software was developed to make it easier to see new images coming in to a folder and always see the latest one.
-This is very useful when working with AI image generation as it lets you view the last output automatically.
+LatestImageViewer is designed as a straightforward image viewing application that prioritizes the display of the most recent image within a specified folder. This tool is particularly beneficial for those engaged in AI image generation, providing an immediate view of the latest output without manual intervention.
 
 # Usage
-Launch the application and input the folder path to your folder with images in it.
-Any new image added to the folder should trigger it to automatically display the new item, **as long as you are currently viewing the newest image in the folder**.
+To begin using LatestImageViewer:
 
-You can navigate to other images using the arrow keys (LEFT/RIGHT), or the scroll wheel.
-PGUP/PGDN jumps 10 images, and HOME/END goes to oldest/latest image.
+1. Open the application and enter the path to your image storage folder.
+2. The application is programmed to automatically update the displayed image with the newest file added to the folder, provided that the application is currently set to display the latest image.
 
-You can also hold down RIGHT MOUSE and move up/down to zoom in, although it's a bit janky and laggy.
+Navigation:
+- Use LEFT/RIGHT arrow keys or the mouse scroll wheel to cycle through images in the folder.
+- Press PGUP/PGDN to leap across 10 images at a time.
+- Use HOME/END keys to jump to the oldest or newest image in the folder.
 
-ALT + ENTER to go full-screen (it always fullscreens on your primary monitor unfortunately, known bug).
-DELETE to delete the image. It should go to your trash, but use at your own risk.
+Zooming:
+- To zoom in on an image, hold down the RIGHT MOUSE button and move the mouse up or down. Note: This feature may experience some performance issues, including lag and jerkiness.
 
-There's a right-click menu for some of these inputs.
+Fullscreen Mode:
+- Press ALT + ENTER to switch the application to full-screen mode. Currently, full-screen mode is limited to the primary monitor due to a known bug.
+
+Deleting Images:
+- Press DELETE to remove the currently displayed image. The image is intended to be moved to your system's trash or recycle bin, but please proceed with caution when using this feature.
+
+Additional Features:
+- A right-click context menu is available, offering shortcuts to some of the functionalities mentioned above.
+
+Please note that LatestImageViewer offers a practical solution for users needing to monitor the influx of new images into a designated folder, streamlining the process of viewing the latest additions.
 
 # Example
 ![image](https://github.com/MNeMoNiCuZ/LatestImageViewer/assets/60541708/652d60eb-5663-41ef-a665-386b88c2e7e7)
